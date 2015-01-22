@@ -1,6 +1,6 @@
 # GatewayCDI
-Code example and Problem Description
+Code example and Problem Solution
 
-The CodeSample.cs files is a c# solution to a simple interview question
+CodeSample.cs is a c# solution to a simple interview question
 
-The Problem Solution.doc file describes solutions to two problems.
+Problem Solution.doc describes solutions to two problems.
