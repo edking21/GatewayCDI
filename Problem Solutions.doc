@@ -1,0 +1,18 @@
+First Error
+Description of the problem
+A request for an SSL connection has failed.  Both the client and the server must be capable of 128-bit encryption in order to connect through a Citrix Secure Gateway.
+How to test and fix this problem
+To resolve this issue I recommend installing Windows 2000 Service Pack 2 on the Citrix Secure Gateway server and ensure that the client machine has either Windows 2000 Service Pack 2 or the High Encryption Pack for Windows.  
+Non-Technical Description
+A remote users attempt to access one of the company servers has failed.  The remote user internet request was rejected by the company servers due to an incompatible request message.  The solution is either 1) allow the users request by changing the company servers (not recommended) or 2) send a note to the customer recommending an upgrade to a more secure messaging system.
+
+Second Error
+This is a generic warning that an exception occurred in the ASP.NET. It can happen on anything from running 32 bit applications on a 64 bit machine to an invalid string passed to a page, or to a SQL connection timeout from an ASP.NET page.
+Using this URL will successfully browse to the Google Merchandise Store:
+https://www.googlemerchandisestore.com:443/shop.aspx/undefined?type=promotion&data=undefined
+Google will adjust the URL to be:
+https://www.googlemerchandisestore.com/shop.aspx/undefined?type=promotion&data=undefined
+Non-Technical Description
+The user has an outdated URL to access the Google Merchandise Store.  The web site will show the user how to update the bookmark for future reference.
+
+
